@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Master of Nothing
+- 👋 Hi, I’m フカシ はたけ
 - 👀 I’m interested in ML, DL, Analytics
 - 🌱 I’m currently learning DL
 
