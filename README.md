@@ -1,6 +1,6 @@
 - 👋 Hi, I’m フカシ はたけ
 - 👀 I’m interested in ML, DL, Analytics
-- 🌱 I’m currently learning DL, ML
+- 🌱 I’m currently learning DL, ML and Marketing 😅
 
 <!---
 master-of-nothing/master-of-nothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
