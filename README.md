@@ -1,4 +1,4 @@
-- 👋 Hi, I’m フカシ はたけ
+- 👋 Hi, I’m フカシ はたけ (nickname)
 - 👀 I’m interested in ML, DL, Analytics
 - 🌱 I’m currently learning DL, ML and Marketing 😅
 
