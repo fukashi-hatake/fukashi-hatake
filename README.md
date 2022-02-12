@@ -7,7 +7,7 @@ master-of-nothing/master-of-nothing is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/firuzjuraev/discussion/light)
